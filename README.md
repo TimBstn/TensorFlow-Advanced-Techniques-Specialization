@@ -4,4 +4,4 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 
 ## [Custom Models, Layers, and Loss Functions with TensorFlow](https://www.coursera.org/learn/custom-models-layers-loss-functions-with-tensorflow?specialization=tensorflow-advanced-techniques)
 - [Week 1: Multiple Output Models using the Keras Functional API](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W1_Assignment.ipynb)
-- [W2 Assignment: Creating a Custom Loss Function](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W2_Assignment.ipynb)
+- [Week 2: Creating a Custom Loss Function](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W2_Assignment.ipynb)
