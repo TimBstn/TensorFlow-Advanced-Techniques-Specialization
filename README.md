@@ -6,3 +6,4 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 - [Week 1: Multiple Output Models using the Keras Functional API](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W1_Assignment.ipynb)
 - [W2 Assignment: Creating a Custom Loss Function](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W2_Assignment.ipynb)
 - [Week 3 Assignment: Implement a Quadratic Layer](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W3_Assignment.ipynb)
+- [Week 4 Assignment: Create a VGG network](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W4_Assignment.ipynb)
