@@ -9,4 +9,4 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 - [Week 4 Assignment: Create a VGG network](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course1/C1W4_Assignment.ipynb)
 
 ## [Custom and Distributed Training with TensorFlow](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow?specialization=tensorflow-advanced-techniques)
--[Basic Tensor operations and GradientTape](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W1_Assignment.ipynb)
+- [Basic Tensor operations and GradientTape](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W1_Assignment.ipynb)
