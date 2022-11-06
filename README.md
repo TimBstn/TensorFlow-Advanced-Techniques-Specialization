@@ -10,3 +10,4 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 
 ## [Custom and Distributed Training with TensorFlow](https://www.coursera.org/learn/custom-distributed-training-with-tensorflow?specialization=tensorflow-advanced-techniques)
 - [Basic Tensor operations and GradientTape](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W1_Assignment.ipynb)
+- [Breast Cancer Prediction](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W2_Assignment.ipynb)
