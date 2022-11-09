@@ -13,3 +13,5 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 - [Breast Cancer Prediction](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W2_Assignment.ipynb)
 - [Horse or Human? In-graph training loop Assignment](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W3_Assignment.ipynb)
 - [Week 4 Assignment: Custom training with tf.distribute.Strategy](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W4_Assignment.ipynb)
+
+## [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow?specialization=tensorflow-advanced-techniques)
