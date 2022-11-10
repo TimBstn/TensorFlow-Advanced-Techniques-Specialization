@@ -15,3 +15,4 @@ Expand your knowledge of the Functional API and build exotic non-sequential mode
 - [Week 4 Assignment: Custom training with tf.distribute.Strategy](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course2/C2W4_Assignment.ipynb)
 
 ## [Advanced Computer Vision with TensorFlow](https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow?specialization=tensorflow-advanced-techniques)
+- [Predicting Bounding Boxes](https://github.com/TimBstn/TensorFlow-Advanced-Techniques-Specialization/blob/main/Course3/Copy_of_C3W1_Assignment.ipynb)
